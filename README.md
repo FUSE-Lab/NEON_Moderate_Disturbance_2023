@@ -10,3 +10,5 @@ NEON_MODERATE_DISTURBANCE
 ###### https://1drv.ms/u/s!Aq_rBgrqWfO3z998SECFhwwfErdbbQ?e=UASr5f
 ###### 03: Derived LiDAR point cloud
 ###### 04: 3D plot images
+###### 05: Derived vegetation Structure data from DOI: 10.48443/RE8N-TN87 (https://data.neonscience.org/data-products/DP1.10098.001/RELEASE-2022)
+
