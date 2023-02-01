@@ -6,5 +6,5 @@ NEON_MODERATE_DISTURBANCE
 
 
 ###
-### 3D plots for datacheck available at below link:
+### Derived LiDAR poin clouds and 3D plots for datacheck available at below link:
 ###### https://1drv.ms/u/s!Aq_rBgrqWfO3z998SECFhwwfErdbbQ?e=UASr5f
